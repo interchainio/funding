@@ -4,6 +4,8 @@ Open source projects funded by the Interchain Foundation are required to adhere 
 
 - a well-maintained CHANGELOG
 	- short description of _and links to_ PRs for ever major and most minor changes
+- code should be updated with PRs rather than direct pushing to master/develop
+	- releases should be made through the GitHub release feature
 - tracking of deliverables/milestones using some combination of the GitHub project management features
 	- can be as simple as issues & labels
 	- provides a snapshot of what has been accomplished and what remains
