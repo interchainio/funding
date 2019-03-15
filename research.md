@@ -1,6 +1,6 @@
 # Research
 
-The topics listed here are not exhaustive, but provide an idea of what we're interested in.
+The topics listed here are not exhaustive, but provide an idea of what we're interested in. Additional research topics can be found [here](https://github.com/cosmos/research)
 
 - Cryptography
     - Faster and safer signature schemes
