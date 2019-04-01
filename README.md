@@ -14,4 +14,4 @@ The following amounts (in USD) are the usual ranges for each category and should
 
 ## Repository Guidelines
 
-Open source projects funded by the ICF are required to adhere to these [repo guidelines](./repository_guidelines.md)
+Open source projects funded by the ICF are required to adhere to these [repo guidelines](./repository_guidelines.md).
