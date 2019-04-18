@@ -2,6 +2,11 @@
 
 The topics listed here are not exhaustive, but provide an idea of what we're interested in.
 
+- Hardware
+    - Open source architectures
+    - Secure processors
+    - Fault tolerance
+    - Wireless networking
 - Cryptography
     - Faster and safer signature schemes
     - Pairing-based crypto
@@ -25,11 +30,41 @@ The topics listed here are not exhaustive, but provide an idea of what we're int
     - Mesh networks
     - Provable peer behaviour
 - Consensus
+    - Scaling consensus protocols to thousands of nodes
+    - Application specific interactions and optimizations
+    - Performance improvements 
+    - Relationship between consensus protocol and network layer
+    - Grand Unified Theory of Consensus
 - Light-Clients
+    - Security analysis
+    - Performance improvements
+    - Client-side state machines
 - Scalability
+    - Sharding
+    - Asynchronous protocols
+    - Parallelization
+    - Cryptographic techniques
 - Formal Methods
+    - Model checkers
+    - Theorem provers
+    - Correctness of real software
+    - Correct-by-construction protocol design
+    - Modeling byzantine faults and economic behaviour
 - Programming Languages
-- State Machines
+    - Verifiability, accessibility, security
+    - Virtual Machine design
+    - Domain specific languages for non-technical professionals
+    - State Machines
 - Mechanism Design
-- Voting theory
+    - Proof of Stake incentive compatibility
+    - Decentralization
+    - Token economics
+    - Fee markets and mechanisms
+    - Digital property rights
+    - Governance structures
+    - Voting theory
+    - Governance structures
 - Application Security
+    - Secure language subsets
+    - Fuzz testing and simulations
+    - Code review and security audits

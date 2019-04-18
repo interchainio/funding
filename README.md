@@ -1,6 +1,6 @@
 # Interchain Foundation Funding
 
-The Interchain Foundation (ICF) has a broad mandate to promote and develop open-source decentralized software. This repository contains non-exhaustive lists of topics that fall under this mandate.
+The Interchain Foundation (ICF) has a broad mandate to promote and develop open-source decentralized networks. This repository contains non-exhaustive lists of topics that fall under this mandate.
 
 To apply, review the content in this repository and on the [funding page](https://interchain.io/funding) which also contains a link to the application form at the bottom.
 
