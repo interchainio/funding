@@ -26,13 +26,13 @@ The topics listed here are not exhaustive, but provide an idea of what we're int
     - IAVL in other languages - [https://github.com/tendermint/iavl](https://github.com/tendermint/iavl)
 
 - Tendermint
-    - See open issues at: [https://github.com/tendermint/tendermint/issue](https://github.com/tendermint/tendermint/issues)
+    - See open issues at: [https://github.com/tendermint/tendermint/issues](https://github.com/tendermint/tendermint/issues)
      - Integration with libp2p
      - Integration with external indexers (eg. Postgres)
      - Clients in other languages (data structures, RPC, lite-client, full node)
 
 - ABCI Frameworks
-    - Improvements to existing frameworks like [Cosmos-SDK](https://github.com/cosmos/cosmos-sdk) and [LotionJS](https://github.com/keppel/lotion)
+    - Improvements to existing frameworks like [Cosmos-SDK](https://github.com/cosmos/cosmos-sdk) and [LotionJS](https://github.com/nomic-io/lotion)
     - ABCI Frameworks in other languages 
 
 - IBC
