@@ -51,6 +51,6 @@
 - More info required
 - Do not fund
 
-## Board of Managers' recommendation to the Foundation Council
+## Board of Management recommendation to the Foundation Council
 - Strategic Recommendation - Why is this Project Aligned with the ICF Vision?
 - Technical Recommendation - Can this project deliver?
