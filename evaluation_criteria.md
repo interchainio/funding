@@ -45,7 +45,7 @@
 - Is it easily testable?
 - How will the deliverables be assessed? 
 
-## Recommendation to the Board of Managers
+## Recommendation to the Board of Management
 - Fund 
 - Fund w/ amendments
 - More info required
