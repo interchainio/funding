@@ -8,7 +8,7 @@ application will move through in order to be funded.
 Upon receiving an application, an initial review will 
 assess whether the project is eligible for funding under the
 Interchain Foundation mandate. This review includes various
-stakeholders within the ICF. At this stage, the decision is
+stakeholders, primarily within the ICF. At this stage, the decision is
 made to not fund some applications.
 
 ## In-Depth Evaluation
@@ -38,7 +38,7 @@ the application.
 **NOTE:** At this point, no funding has yet been approved. Some
 back and forth may occur between the first call and next step.
 
-## Recommendation by the Board of Managers
+## Approval by the Board of Management (BoM)
 
 At some point in the previous step, the BoM will have given unanimous
 approval to fund certain projects, for which an Executive Summary is
@@ -48,9 +48,13 @@ Summary can be found at the bottom of the [Evaluation Criteria](./evaluation_cri
 
 ## Recommendation to the Foundation Council
 
-The Foundation Council reviews each project and either approves
+The Foundation Council reviews each project and either approves or
 denies the funding. Given the due diligence that has occurred thus far,
 the FC must give good reasons for denying funding.
+
+## Approval by the Foundation Council
+
+Once the Foundation Council approves the funding, agreements are drafted and finally signed.
 
 ## Timeline
 
