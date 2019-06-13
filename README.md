@@ -5,6 +5,8 @@ The Interchain Foundation (ICF) has a broad mandate to promote and develop open-
 To apply, review the content in this repository and on the [website](https://interchain.io/funding) then
 fill out this [Google Form](https://forms.gle/qe12SrDVLN3BxY3a6)
 
+**See Q3 RFP [here](https://medium.com/@interchain_io/request-for-proposals-2019-expanding-environments-93c0f51ec9a1)**
+
 ## Categories & Amounts
 
 The following amounts (in USD) are the usual ranges for each category and should be used as a guideline when preparing your application. Exceptions can be made for outstanding teams, projects that cross multiple categories, or unique collaborations.
