@@ -1,4 +1,4 @@
-# Interchain Foundation Grants Program
+# Interchain Foundation Funding Program
   
 The Interchain Foundation (ICF) has a broad mandate to promote and develop open-source decentralized networks. This repository contains non-exhaustive lists of topics that fall under this mandate.
 
