@@ -11,5 +11,5 @@ See the projects funded in each year :
 |:--------|:-------------------:|:-----------:|:-----:|:------:|
 | Research|         0%          |      0%     | 25% | 25% |
 | Engineering & Product      | 45%  | 8% | 1% | 54% |
-| Social Good & Community | 16% | 4% | 2% | 21% | 
+| Social Good & Community | 16% | 3% | 2% | 21% | 
 | Total | 61% | 11% | 28% | 100% | 
