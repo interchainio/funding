@@ -7,7 +7,7 @@ fill out this [Google Form](https://forms.gle/qe12SrDVLN3BxY3a6)
 
 ## List of Funded Projects
 
-See here for a list of projects funded to date here [funding/projects](projects/)
+See here for a list of projects funded to date here [projects](projects/)
 
 **See Q3 RFPs:**
 - [Expanding Environments](https://medium.com/@interchain_io/request-for-proposals-2019-expanding-environments-93c0f51ec9a1)
