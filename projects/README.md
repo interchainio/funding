@@ -10,6 +10,6 @@ See the projects funded in each year :
 |         | Service Agreement   | Investment  | Grant |  Total |
 |:--------|:-------------------:|:-----------:|:-----:|:------:|
 | Research|         0%          |      0%     | 23% | 23% |
-| Engineering & Product      | 47%  | 7% | 2% | 56% |
-| Social Good & Community | 15% | 4% | 2% | 21% | 
-| Total | 62% | 11% | 27% | 100% | 
+| Engineering & Product      | 49%  | 7% | 2% | 58% |
+| Social Good & Community | 14% | 3% | 2% | 19% | 
+| Total | 63% | 10% | 27% | 100% | 
