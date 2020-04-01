@@ -18,9 +18,6 @@ The topics listed here are not exhaustive, but provide an idea of what we're int
     - Quantum safe systems
     - Security audits
 
-- Serialization
-    - Amino in other languages - [https://github.com/tendermint/go-amino](https://github.com/tendermint/go-amino)
-
 - Databases
     - Merkle data stores
     - IAVL in other languages - [https://github.com/tendermint/iavl](https://github.com/tendermint/iavl)
@@ -32,12 +29,18 @@ The topics listed here are not exhaustive, but provide an idea of what we're int
      - Clients in other languages (data structures, RPC, lite-client, full node)
 
 - ABCI Frameworks
-    - Improvements to existing frameworks like [Cosmos-SDK](https://github.com/cosmos/cosmos-sdk) and [LotionJS](https://github.com/nomic-io/lotion)
+    - Improvements to existing frameworks like [Cosmos-SDK](https://github.com/cosmos/cosmos-sdk), [LotionJS](https://github.com/nomic-io/lotion) and [Kepler](https://github.com/f-o-a-m/kepler)
     - ABCI Frameworks in other languages 
+    
+- UX & Client Libraries
+    - SDKs and libraries to support creating and signing transactions
+    - SDKs and libraries to support querying state of various applications
+    - Integrations with existing user focused products
 
 - IBC
     - Protocol formalization
     - Implementation in other languages
+    - Light clients for various consensus engines
 
 - Pegs to other networks
     - Ethereum, Bitcoin, ZCash, Tezos, etc.
