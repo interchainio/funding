@@ -8,7 +8,7 @@ We'll be funding projects and initiatives that aim to address social issues rang
 - Freedom of speech
 - Censorship resistance
 - Decentralized harm reduction
-- Accountable governance
+- Transparent & accountable governance systems
 - Access to information and digital services
 - Access to financial services
 - Community sovereignty
