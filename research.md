@@ -68,3 +68,8 @@ The topics listed here are not exhaustive, but provide an idea of what we're int
     - Secure language subsets
     - Fuzz testing and simulations
     - Code review and security audits
+- User Experience
+    - Novel methods for signing transactions securely
+    - Improvements to private key security
+    - Techniques for integrating existing commonly used infrastructure
+    - Cryptographic techniques which could improve accessibility and security
