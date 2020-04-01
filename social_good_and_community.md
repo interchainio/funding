@@ -7,6 +7,8 @@ We'll be funding projects and initiatives that aim to address social issues rang
 - Privacy
 - Freedom of speech
 - Censorship resistance
+- Decentralized harm reduction
+- Accountable governance
 - Access to information and digital services
 - Access to financial services
 - Community sovereignty
@@ -15,8 +17,9 @@ We'll be funding projects and initiatives that aim to address social issues rang
 
 - Digital Security
 - Financial literacy
-- Various blockchain related topics
-- Cosmos specific topics
+- Blockchain learning resources
+- Cosmos-specific learning resources
+- Improving Cosmos & IBC related documentation
 
 ## Sustainability
 
