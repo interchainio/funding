@@ -64,6 +64,7 @@ The topics listed here are not exhaustive, but provide an idea of what we're int
     - Governance structures
     - Voting theory
     - Governance structures
+    - Analyses of security & cryptoeconomics for complex multi-chain topologies, e.g. shielded pools, cross-chain validation
 - Application Security
     - Secure language subsets
     - Fuzz testing and simulations
