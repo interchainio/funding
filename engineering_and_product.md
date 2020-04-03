@@ -24,9 +24,8 @@ The topics listed here are not exhaustive, but provide an idea of what we're int
 
 - Tendermint
     - See open issues at: [https://github.com/tendermint/tendermint/issues](https://github.com/tendermint/tendermint/issues)
-     - Integration with libp2p
-     - Integration with external indexers (eg. Postgres)
-     - Clients in other languages (data structures, RPC, lite-client, full node)
+    - Integration with external indexers (eg. Postgres)
+    - Clients in other languages (data structures, RPC, lite-client, full node)
 
 - ABCI Frameworks
     - Improvements to existing frameworks like [Cosmos-SDK](https://github.com/cosmos/cosmos-sdk), [LotionJS](https://github.com/nomic-io/lotion) and [Kepler](https://github.com/f-o-a-m/kepler)
@@ -40,7 +39,9 @@ The topics listed here are not exhaustive, but provide an idea of what we're int
 - IBC
     - Protocol formalization
     - Implementation in other languages
-    - Light clients for various consensus engines
+    - Clients for other consensus algorithms in the IBC-compatible interface
+    - Application-layer protocol specifications & implementations
+    
 
 - Pegs to other networks
     - Ethereum, Bitcoin, ZCash, Tezos, etc.
