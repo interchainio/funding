@@ -47,7 +47,7 @@ We believe that open-source, cryptographic, consensus-driven, economic networks 
 ## Sustainability
 <!--
 - Does the project have a sustainability plan after funding runs out?
-- How long do they expected to be funded for?
+- How long do they expect to be funded for?
 -->
 
 ## Results
