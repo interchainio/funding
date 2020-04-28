@@ -1,8 +1,14 @@
 # <!-- Your Name -->Evaluation
 <!-- Update with your name (and rename file to include your name). -->
 
-## Technical Coherence of Proposed Work
+## Short Summary
  <!-- Please write a few sentences with the most important aspects of your review  -->
+
+## Recommendation to the Board of Management
+<!--
+Recommend: Fund, Fund w/ amendments, More info required, Do not fund
+Reason: Please justify your recommendation in one or two sentences.
+-->
 
 ## Team Due Diligence / Track Record
 <!--
@@ -33,6 +39,7 @@
 <!--
 Our Mission
 Our mandate is to research, develop, and promote open, decentralized, network technologies like Cosmos, that provide greater sovereignty, security, and sustainability to the world’s communities. 
+
 Our Vision
 We believe that open-source, cryptographic, consensus-driven, economic networks hold the key to an anti-fragile global economic system and equal opportunity for all.
 -->
