@@ -1,27 +1,39 @@
 # Interchain Foundation Funding Program
   
-The Interchain Foundation (ICF) has a broad mandate to promote and develop open-source decentralized networks. This repository contains non-exhaustive lists of topics that fall under this mandate.
+The Interchain Foundation (ICF) has a broad mandate to support 
+the development of open-source decentralized networks. This 
+repository contains information about proposal topics that may 
+be eligible for support, along with instructions for applicants,
+and a registry of past funding recipients.
 
-Thanks to everyone who applied for Q3 2019 ICF grants! We will be **closing applications for the remainder of 2019** so we can work through our current backlog. See you all in 2020! 
+## How to Apply
 
-## List of Funded Projects
+
+~ Application Instructions here ~
+
+
+The Interchain Foundation uses the following categories to 
+track quarterly contributions to the fulfillment of our mandate.
+Each category contains a non-inclusive list of topics, which 
+could provide the basis for a sucessful funding proposal.
+
+- [Social Good & Community](./social_good_and_community.md)
+- [Research](./research.md)
+- [Engineering & Product](./engineering_and_product.md)
+
+## Review Process
+
+All applications undergo a [review process](./review_process.md) 
+throughout which additional information may be requested.
+
+We often work with applicants to revise their proposed scope to 
+ensure success and better meet the needs of the ecosystem.
+
+## Funded Projects
 
 See a list of projects funded to date [here](projects/)
 
-## Categories & Amounts
+## Contribution
 
-The following amounts (in USD) are the usual ranges for each category and should be used as a guideline when preparing your application. Exceptions can be made for outstanding teams, projects that cross multiple categories, or unique collaborations.
-
-- [Social Good & Community](./social_good_and_community.md): **$5000 - $50,000**
-- [Research](./research.md): **$50,000 - $200,000**
-- [Engineering & Product](./engineering_and_product.md): **$50,000 - $200,000**
-
-## Process & Criteria
-
-Details about review process can be found [here](./review_process.md).
-
-Evaluation criteria can be found [here](./evaluation_criteria.md).
-
-## Repository Guidelines
-
-Open source projects funded by the ICF are required to adhere to these [repo guidelines](./repository_guidelines.md).
+Open source projects funded by the ICF are required to adhere to 
+these [contribution guidelines](./contribution_guidelines.md).
