@@ -1,68 +1,65 @@
+
 # Review Process
 
-The following is a brief outline of the stages a successful
-application will move through in order to be funded.
+All applications submitted to the Interchain Foundation 
+Funding Program go through a multi-stakeholder evaluation 
+process to ensure our support aligns with the Interchain 
+Foundation's mission. This document summarizes the
+sequence in which proposals are processed. Review may be 
+discontinued or applicants asked to revise their 
+proposal at any point until a contract has been finalized.
 
-## Initial Review
+## Granting Entities
 
-Upon receiving an application, an initial review will 
-assess whether the project is eligible for funding under the
-Interchain Foundation mandate. This review includes various
-stakeholders, primarily within the ICF. At this stage, the decision is
-made to not fund some applications.
+Upon submission, the *Granting Entities*, 
+[Interchain GmbH.](https://interchain.berlin/) and 
+[Informal](https://informal.systems/), will assess whether an
+application is complete and meets the legal criteria 
+for consideration.
 
-## In-Depth Evaluation
+Granting Entities will then perform an initial review using the
+following [evaluation criteria](./evaluation_criteria.md),
+and solicit additional peer review where appropriate.
 
-Next, the [evaluation criteria](./evaluation_criteria.md) template
-is completed for all applications that have been moved to the next round.
-The effort is led by the Grant Manager, who pulls in relevant
-stakeholders as required.
+Each proposal will then be matched with a *Steward*, who will serve
+as the Applicant's primary point of contact.
 
-The exercise of this in-depth review leads to two potential outcomes:
-- interest in funding the project, or;
-- decision to not fund
+Once assigned, Stewards will setup an initial call with the Applicant
+to clarify outstanding questions about their submission and revise
+the proposed scope, timeline, and budget as needed. Together they 
+will draft a prospective *Financing Agreement*, which will used as 
+the basis for subsequent evaluation.
 
-## Intro Call
+## Board of Management & Technical Advisory Committee
 
-The next step for projects that have made the cut is an intro call
-to align efforts and ensure everyone is on the same page.
+The draft Financing Agreement, together with Granting Entity reviews
+and the original application are delivered to the *Board of
+Management*, a supervisory body employed by the Interchain Foundation.
 
-If the ICF is still considering funding the application,
-the actionables from this call are usually along the lines of:
-- connecting with external stakeholders to verify utility of the project
-- scoping out deliverables and timelines in greater details
+The Board of Management will administer the assembly of a *Technical
+Advisory Committee*, composed of domain experts with a record
+of community contribution. This committee will provide feedback
+on each proposal's technical soundness and benefit to the wider
+ecosystem.
 
-with the goal to assembling a Grant or Service Agreement between the ICF and
-the application.
+The Board of Management will then incorporate feedback from the 
+Technical Advisory Committee with all previous materials, to create
+a final package which is either unanimously endorsed or returned 
+to Stewards with revising comments.
 
-**NOTE:** At this point, no funding has yet been approved. Some
-back and forth may occur between the first call and next step.
+## Foundation Council
 
-## Approval by the Board of Management (BoM)
+Endorsed packages are then sent to the *Foundation Council*,
+who will certify their final approval by signing the 
+Financing Agreement, or exercising a final veto. Given the 
+extent of prior due diligence, the Foundation Council must 
+provide a strong justification to deny final approval.
 
-At some point in the previous step, the BoM will have given unanimous
-approval to fund certain projects, for which an Executive Summary is
-created. All the projects approved by the BoM will then be assembled
-in a package sent to the Foundation Council for review. This Executive
-Summary can be found at the bottom of the [Evaluation Criteria](./evaluation_criteria.md).
+## Common Reasons a Proposal is _Not_ Funded
 
-## Recommendation to the Foundation Council
+- Incomplete Scope, Budget, or Timeline
+- Asking amount is too high
+- Timing (too early for Interchain Foundation consideration)
+- Previously supported similar work
+- Not relevant to Interchain Foundation mandate
 
-The Foundation Council reviews each project and either approves or
-denies the funding. Given the due diligence that has occurred thus far,
-the FC must give good reasons for denying funding.
-
-## Approval by the Foundation Council
-
-Once the Foundation Council approves the funding, agreements are drafted and finally signed.
-
-## Timeline
-
-This process typically takes 3-8 weeks. 
-
-## Common Not Funded Reasons
-
-- asking for too much money
-- bad timing (something we don't fund ... yet)
-- already funded similar projects
-- not relevant to ICF mandate
