@@ -63,7 +63,6 @@ The topics listed here are not exhaustive, but provide an idea of what we're int
     - Digital property rights
     - Governance structures
     - Voting theory
-    - Governance structures
 - Application Security
     - Secure language subsets
     - Fuzz testing and simulations
