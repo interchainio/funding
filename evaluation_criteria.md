@@ -28,7 +28,7 @@ Reason: Please justify your recommendation in one or two sentences.
 - Anything worth noting about their budget?
 -->
 
-## Prior Art
+## Prior Efforts
 <!-- 
 - Are there any other projects already working on this?
 - What is the differences between them?
@@ -56,7 +56,7 @@ We believe that open-source, cryptographic, consensus-driven, economic networks 
 - How long do they expect to be funded for?
 -->
 
-## Confilct of Interest / Risks
+## Conflict of Interest / Risks
 <!--
 - Are the conflicts of interest of investing in this project large?
 - Are there legal or regulatory risks, reputational risk, operational/management risk etc?
