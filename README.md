@@ -1,27 +1,51 @@
 # Interchain Foundation Funding Program
   
-The Interchain Foundation (ICF) has a broad mandate to promote and develop open-source decentralized networks. This repository contains non-exhaustive lists of topics that fall under this mandate.
+The Interchain Foundation (ICF) has a broad mandate to support 
+the development of open-source decentralized networks. This 
+repository contains information about topics eligible for 
+support, application instructions, our review process, and a 
+record of funded projects.
 
-Thanks to everyone who applied for Q3 2019 ICF grants! We will be **closing applications for the remainder of 2019** so we can work through our current backlog. See you all in 2020! 
+## Request for Proposals
 
-## List of Funded Projects
+The Interchain Foundation invites individuals, companies, 
+institutions, or alternative organizational bodies with a payable 
+address to submit proposals within the following categories. 
+Each category contains a non-exhaustive list of topics, any of 
+which could provide the basis for a sucessful funding proposal.
+
+- [Social Good & Community](./social_good_and_community.md)
+- [Research](./research.md)
+- [Engineering & Product](./engineering_and_product.md)
+
+## How to Apply
+
+1. Familiarize yourself with the 
+[ICF Mission & Vision](https://interchain.io/mission/) and our
+current [Request for Proposals](#request-for-proposals) to assess
+whether your proposal is aligned with the Interchain Foundation's
+mandate and quarterly objectives.
+2. Complete the application form [here](TBD), be sure to include
+a complete description of the proposed work, budget, and timeline,
+otherwise we cannot consider your application.
+3. An email receipt will be sent upon submission,
+your application will be [reviewed](#review-process), and you 
+will be contacted as soon as the Interchain Founation has 
+made a determination.
+
+## Review Process
+
+All applications undergo a [review process](./review_process.md) 
+throughout which additional information may be requested.
+
+We often work with applicants to revise their proposed scope to 
+ensure success and better meet the needs of the ecosystem.
+
+## Funded Projects
 
 See a list of projects funded to date [here](projects/)
 
-## Categories & Amounts
+## Contribution
 
-The following amounts (in USD) are the usual ranges for each category and should be used as a guideline when preparing your application. Exceptions can be made for outstanding teams, projects that cross multiple categories, or unique collaborations.
-
-- [Social Good & Community](./social_good_and_community.md): **$5000 - $50,000**
-- [Research](./research.md): **$50,000 - $200,000**
-- [Engineering & Product](./engineering_and_product.md): **$50,000 - $200,000**
-
-## Process & Criteria
-
-Details about review process can be found [here](./review_process.md).
-
-Evaluation criteria can be found [here](./evaluation_criteria.md).
-
-## Repository Guidelines
-
-Open source projects funded by the ICF are required to adhere to these [repo guidelines](./repository_guidelines.md).
+Open source projects funded by the ICF are required to adhere to 
+these [contribution guidelines](./contribution_guidelines.md).
