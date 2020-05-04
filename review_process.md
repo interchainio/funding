@@ -44,22 +44,22 @@ ecosystem.
 
 The Board of Management will then incorporate feedback from the 
 Technical Advisory Committee with all previous materials, to create
-a final package which is either unanimously endorsed or returned 
-to Stewards with revising comments.
+a final package which is either unanimously endorsed by the Board of
+Managment or returned to Stewards with revising comments.
 
 ## Foundation Council
 
 Endorsed packages are then sent to the *Foundation Council*,
 who will certify their final approval by signing the 
 Financing Agreement, or exercising a final veto. Given the 
-extent of prior due diligence, the Foundation Council must 
-provide a strong justification to deny final approval.
+extent of prior due diligence, the Foundation Council should 
+provide a strong justification to deny final approval. The
 
 ## Common Reasons a Proposal is _Not_ Funded
 
 - Incomplete Scope, Budget, or Timeline
 - Asking amount is too high
 - Timing (too early for Interchain Foundation consideration)
-- Previously supported similar work
+- Previously supported redundant efforts
 - Not relevant to Interchain Foundation mandate
 
