@@ -55,7 +55,7 @@ Endorsed packages are then sent to the *Foundation Council*,
 who will certify their final approval by signing the 
 Financing Agreement, or exercising a final veto. Given the 
 extent of prior due diligence, the Foundation Council should 
-provide a strong justification to deny final approval. The
+provide a strong justification to deny final approval.
 
 ## Common Reasons a Proposal is _Not_ Funded
 
@@ -64,4 +64,3 @@ provide a strong justification to deny final approval. The
 - Timing (too early for Interchain Foundation consideration)
 - Previously supported redundant efforts
 - Not relevant to Interchain Foundation mandate
-
