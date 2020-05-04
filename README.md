@@ -26,7 +26,8 @@ current [Request for Proposals](#request-for-proposals) to assess
 whether your proposal is aligned with the Interchain Foundation's
 mandate and quarterly objectives.
 2. Complete the application form [here](TBD), be sure to include
-a complete description of the proposed work, budget, and timeline,
+a complete description of the proposed work, 
+[budget & timeline](https://docs.google.com/spreadsheets/d/1Pq4C8ne_OhTzAZeMIHgZDGkjpq8LLyUZN4DpM65oRRk/),
 otherwise we cannot consider your application.
 3. An email receipt will be sent upon submission,
 your application will be [reviewed](#review-process), and you 
