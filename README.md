@@ -12,7 +12,7 @@ The Interchain Foundation invites individuals, companies,
 institutions, or alternative organizational bodies with a payable 
 address to submit proposals within the following categories. 
 Each category contains a non-exhaustive list of topics, any of 
-which could provide the basis for a sucessful funding proposal.
+which could provide the basis for a successful funding proposal.
 
 - [Social Good & Community](./social_good_and_community.md)
 - [Research](./research.md)
