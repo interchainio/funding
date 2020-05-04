@@ -48,5 +48,5 @@ See a list of projects funded to date [here](projects/)
 
 ## Contribution
 
-Open source projects funded by the ICF are required to adhere to 
-these [contribution guidelines](./contribution_guidelines.md).
+Open source projects funded by the ICF are encouraged to adhere to 
+these [repository guidelines](./repository_guidelines.md).
