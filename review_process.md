@@ -9,6 +9,8 @@ sequence in which proposals are processed. Review may be
 discontinued or applicants asked to revise their 
 proposal at any point until a contract has been finalized.
 
+![Review Process Flow Chart](./assets/review_process.png)
+
 ## Granting Entities
 
 Upon submission, the *Granting Entities*, 
