@@ -52,8 +52,8 @@ Managment or returned to Stewards with revising comments.
 ## Foundation Council
 
 Endorsed application packages are then sent to the 
-*Foundation Council*, who will either give their final 
-approval or exercise a final veto. Given the 
+*Foundation Council*, who will either give final 
+approval or exercise their veto. Given the 
 extent of prior due diligence, the Foundation Council should 
 provide a strong justification to deny final approval.
 
