@@ -17,13 +17,14 @@ Upon submission, the **Granting Entities**,
 [Interchain GmbH](https://interchain.berlin/) and 
 [Informal](https://informal.systems/), will assess whether the
 application is complete and meets the legal criteria 
-for consideration.
+for eligibility.
 
 Granting Entities will then perform an initial review using the
 following [evaluation criteria](./evaluation_criteria.md),
 soliciting additional peer review where appropriate.
 
-Each proposal will then be matched with a **Steward**, who will serve
+Granting Entities may then choose to sponsor applications for 
+further consideration, matching them with a **Steward** who will serve
 as the Applicant's primary point of contact.
 
 Once assigned, Stewards will setup an initial call with the Applicant
