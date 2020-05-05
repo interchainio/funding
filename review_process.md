@@ -51,9 +51,9 @@ Managment or returned to Stewards with revising comments.
 
 ## Foundation Council
 
-Endorsed packages are then sent to the *Foundation Council*,
-who will certify their final approval by signing the 
-Financing Agreement, or exercising a final veto. Given the 
+Endorsed application packages are then sent to the 
+*Foundation Council*, who will either give their final 
+approval or exercise a final veto. Given the 
 extent of prior due diligence, the Foundation Council should 
 provide a strong justification to deny final approval.
 
