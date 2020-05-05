@@ -16,7 +16,7 @@ proposal at any point until a contract has been finalized.
 Upon submission, the **Granting Entities**, 
 [Interchain GmbH](https://interchain.berlin/) and 
 [Informal](https://informal.systems/), will assess whether the
-application is complete and meets the legal criteria 
+application is complete and meets the criteria 
 for eligibility.
 
 Granting Entities will then perform an initial review using the
