@@ -36,15 +36,14 @@ made a determination.
 
 ## Review Process
 
-All applications undergo a [review process](./review_process.md) 
-throughout which additional information may be requested.
+All applications are reviewed by the Interchain Foundation as well by external parties within the various **Granting Entities** and the **Technical Advisory Committee**. Throughout the process additional information may be requested. Find details about the review process [here](./review_process.md).
 
 We often work with applicants to revise their proposed scope to 
 ensure success and better meet the needs of the ecosystem.
 
 ## Funded Projects
 
-See a list of projects funded to date [here](projects/)
+See a list of projects funded to date [here](projects/).
 
 ## Contribution
 

@@ -1,6 +1,6 @@
 # Repo Guidelines
 
-Open source projects funded by the Interchain Foundation are required to adhere to the following guidelines in order to remain in good standing with the funding program. The goal is to ensure these projects are easily accessible to the wider community of developers and end-users, as well as to simplify assessment of deliverables.
+Open source projects funded by the Interchain Foundation are encouraged to adhere to the following guidelines in order to remain in good standing with the funding program. The goal is to ensure these projects are easily accessible to the wider community of developers and end-users, as well as to simplify assessment of deliverables.
 
 - a well-maintained CHANGELOG
 	- short description of _and links to_ PRs for every major and most minor changes
