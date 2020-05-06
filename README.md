@@ -41,6 +41,13 @@ All applications are reviewed by the Interchain Foundation as well by external p
 We often work with applicants to revise their proposed scope to 
 ensure success and better meet the needs of the ecosystem.
 
+## Funding Types
+
+Financing Agreements between Applicants and the Interchain Foundation can be of the following types:
+ * **Service Agreement** - This type is the most common, with payments based on clear fulfillment of deliverables.
+ * **Grants** - This type of financing is preferred if deliverables are less discrete, if proposed work is part of an ongoing process or multi-stakeholder system where ICF oversight will have little effect on the outcome.
+ * **Investment** - This is the least common type and occurs when there is exceptional alignment between a project and the Interchain Foundation's Mission and Vision.
+
 ## Funded Projects
 
 See a list of projects funded to date [here](projects/).
