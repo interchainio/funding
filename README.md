@@ -41,7 +41,7 @@ All applications are reviewed by the Interchain Foundation as well by external p
 We often work with applicants to revise their proposed scope to 
 ensure success and better meet the needs of the ecosystem.
 
-## Funding Formats
+## Funding Types
 
 Funding can take shape in one of three formats:
  * **Service Agreement** - This is the most common format and includes clear deliverables-based payments.
