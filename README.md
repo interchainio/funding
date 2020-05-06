@@ -44,7 +44,7 @@ ensure success and better meet the needs of the ecosystem.
 ## Funding Types
 
 Financing Agreements between Applicants and the Interchain Foundation can be of the following types:
- * **Service Agreement** - This is the most common format and includes clear deliverables-based payments.
+ * **Service Agreement** - This type is the most common, with payments based on clear fulfillment of deliverables.
  * **Grants** - This format is used when deliverables are less clear or work is part of a larger ongoing process with potentially many stake holders.
  * **Investment** - This is the least common format and occurs when there is exceptional alignment between a project and the Interchain Foundation's Mission and Vision.
 
