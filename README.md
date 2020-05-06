@@ -46,7 +46,7 @@ ensure success and better meet the needs of the ecosystem.
 Financing Agreements between Applicants and the Interchain Foundation can be of the following types:
  * **Service Agreement** - This type is the most common, with payments based on clear fulfillment of deliverables.
  * **Grants** - This type of financing is preferred if deliverables are less discrete, if proposed work is part of an ongoing process or multi-stakeholder system where ICF oversight will have little effect on the outcome.
- * **Investment** - This is the least common format and occurs when there is exceptional alignment between a project and the Interchain Foundation's Mission and Vision.
+ * **Investment** - This is the least common type and occurs when there is exceptional alignment between a project and the Interchain Foundation's Mission and Vision.
 
 ## Funded Projects
 
