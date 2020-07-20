@@ -33,20 +33,20 @@ the proposed scope, timeline, and budget as needed. Together they
 will draft a prospective **Financing Agreement**, which will used as 
 the basis for subsequent evaluation.
 
-## Board of Management & Technical Advisory Committee
+## Board of Management & Technical Advisory Board
 
 The draft Financing Agreement, together with Granting Entity reviews
 and the original application, are delivered to the **Board of
 Management**, a supervisory body employed by the Interchain Foundation.
 
 The Board of Management will administer the assembly of a **Technical
-Advisory Committee**, composed of domain experts with a proven record
+Advisory Board**, composed of domain experts with a proven record
 of community contribution. This committee will provide feedback
 on each proposal's technical soundness and benefit to the wider
 ecosystem.
 
 The Board of Management will then incorporate feedback from the 
-Technical Advisory Committee with all previous materials to create
+Technical Advisory Board with all previous materials to create
 a final package which will be unanimously endorsed by the Board of
 Managment or otherwise returned to Stewards with revising comments.
 
