@@ -8,15 +8,18 @@ record of funded projects.
 
 ## Request for Proposals
 
-The Interchain Foundation invites individuals, companies, 
-institutions, or alternative organizational bodies with a payable 
-address to submit proposals within the following categories. 
+The Interchain Foundation invites individuals, companies and 
+institutions to submit proposals within the following categories. 
 Each category contains a non-exhaustive list of topics, any of 
 which could provide the basis for a successful funding proposal.
 
-- [Social Good & Community](./social_good_and_community.md)
-- [Research](./research.md)
-- [Engineering & Product](./engineering_and_product.md)
+- [Research](./RFP-research.md)
+- [Engineering & Product](./RFP-engineering_and_product.md)
+- [Social Good & Community](./RFP-social_good_and_community.md)
+
+## Quarterly Objectives
+### Q1 2021
+ * [Governance Module Improvements](https://docs.google.com/document/d/1oPGhjPGRC4C8IBijVsp6SwXPycu2wM9hXfMKKPPUtkQ/edit?ts=5fff3f46)
 
 ## How to Apply
 
@@ -25,7 +28,7 @@ which could provide the basis for a successful funding proposal.
 current [Request for Proposals](#request-for-proposals) to assess
 whether your proposal is aligned with the Interchain Foundation's
 mandate and quarterly objectives.
-2. Complete the application form [here](https://apply.interchain.io).
+2. Complete the application form at [apply.interchain.io](https://apply.interchain.io).
 Be sure to include a complete description of the proposed work, 
 [budget & timeline](https://docs.google.com/spreadsheets/d/1Pq4C8ne_OhTzAZeMIHgZDGkjpq8LLyUZN4DpM65oRRk/),
 otherwise we cannot consider your application.
@@ -52,7 +55,7 @@ Financing Agreements between Applicants and the Interchain Foundation can be of 
 
 See a list of projects funded to date [here](projects/).
 
-## Contribution
+## Contributions
 
 Open source projects funded by the ICF are encouraged to adhere to 
 these [repository guidelines](./repository_guidelines.md).
