@@ -14,9 +14,9 @@ address to submit proposals within the following categories.
 Each category contains a non-exhaustive list of topics, any of 
 which could provide the basis for a successful funding proposal.
 
-- [Social Good & Community](./social_good_and_community.md)
-- [Research](./research.md)
-- [Engineering & Product](./engineering_and_product.md)
+- [Social Good & Community](./RFP-social_good_and_community.md)
+- [Research](./RFP-research.md)
+- [Engineering & Product](./RFP-engineering_and_product.md)
 
 ## How to Apply
 
