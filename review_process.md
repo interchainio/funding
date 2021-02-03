@@ -19,9 +19,11 @@ Upon submission, the **Granting Entities**,
 application is complete and meets the criteria 
 for eligibility.
 
-Granting Entities will then perform an initial review using the
-following [evaluation criteria](./evaluation_criteria.md),
-soliciting additional peer review where appropriate.
+Granting Entities will then perform an initial review considering the
+following evaluation criteria, soliciting additional peer review where 
+appropriate: alignment with the ICF's mission, team, 
+user & ecosystem impact, prior efforts, budget, financial need, 
+sustainability, legal eligibility, conflict of interest.
 
 Granting Entities may then choose to sponsor applications for 
 further consideration, matching them with a **Steward** who will serve

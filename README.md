@@ -53,7 +53,7 @@ Financing Agreements between Applicants and the Interchain Foundation can be of 
 
 ## Funded Projects
 
-See a list of projects funded to date [here](projects/).
+See a list of projects funded to date [here](https://interchain.io/funding).
 
 ## Contributions
 
